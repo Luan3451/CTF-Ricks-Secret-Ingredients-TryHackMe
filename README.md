@@ -1,9 +1,7 @@
 # CTF-Ricks-Secret-Ingredients-TryHackMe
 Write-up (Relatório) para o desafio CTF 'Rick's Secret Ingredients' da plataforma TryHackMe.
 
-Com certeza\! Aqui estão as duas versões do relatório (write-up), formatadas em Markdown para serem postadas diretamente no GitHub.
-
------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **English Version**
 
@@ -276,6 +274,8 @@ A leitura do arquivo `3rd.txt` revelou o ingrediente final.
 1.  `mr. meeseek hair`
 2.  `jerry tear`
 3.  `fleeb juice`
+
+
 ls /home
 ls /home/rick
 less /home/rick/"second ingredients"
@@ -284,13 +284,10 @@ A leitura do arquivo revelou o segundo ingrediente.
 Ingrediente 2: jerry tear
 7. Encontrando o Terceiro Ingrediente (Acesso Root)
 O ingrediente final exigia privilégios de root. Verifiquei quais comandos o usuário atual poderia executar com sudo e descobri que tinha permissão para visualizar arquivos no diretório /root.
-Comandos:
-Bash
-sudo ls /root
-sudo less /root/3rd.txt
 
 A leitura do arquivo 3rd.txt revelou o ingrediente final.
 Ingrediente 3: fleeb juice
+
 Resumo dos Ingredientes Secretos
 mr. meeseek hair
 jerry tear
