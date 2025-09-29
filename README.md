@@ -1,5 +1,5 @@
 # CTF-Ricks-Secret-Ingredients-TryHackMe
-Write-up (Relatório) para o desafio CTF 'Rick's Secret Ingredients' da plataforma TryHackMe.
+Write-up (Relatório) para o desafio CTF 'Pickle Rick' da plataforma TryHackMe.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
