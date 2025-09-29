@@ -275,11 +275,6 @@ A leitura do arquivo `3rd.txt` revelou o ingrediente final.
 2.  `jerry tear`
 3.  `fleeb juice`
 
-
-ls /home
-ls /home/rick
-less /home/rick/"second ingredients"
-
 A leitura do arquivo revelou o segundo ingrediente.
 Ingrediente 2: jerry tear
 7. Encontrando o Terceiro Ingrediente (Acesso Root)
