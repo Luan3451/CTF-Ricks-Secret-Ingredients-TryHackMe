@@ -5,7 +5,7 @@ Write-up (Relatório) para o desafio CTF 'Pickle Rick' da plataforma TryHackMe.
 
 ### **English Version**
 
-# CTF Write-up: Rick's Secret Ingredients (TryHackMe)
+# CTF Write-up: Pickle Rick (TryHackMe)
 
 This write-up details the steps taken to complete the "Rick's Secret Ingredients" Capture The Flag challenge on TryHackMe. The objective was to exploit a web server to find three secret ingredients.
 
@@ -142,7 +142,7 @@ Reading the `3rd.txt` file revealed the final ingredient.
 
 ### **Versão em Português**
 
-# Relatório do CTF: Os Ingredientes Secretos do Rick (TryHackMe)
+# Relatório do CTF: Pickle Rick (TryHackMe)
 
 Este relatório detalha os passos realizados para completar o desafio de Capture The Flag "Rick's Secret Ingredients" na plataforma TryHackMe. O objetivo era explorar um servidor web para encontrar três ingredientes secretos.
 
