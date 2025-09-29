@@ -274,16 +274,3 @@ A leitura do arquivo `3rd.txt` revelou o ingrediente final.
 1.  `mr. meeseek hair`
 2.  `jerry tear`
 3.  `fleeb juice`
-
-A leitura do arquivo revelou o segundo ingrediente.
-Ingrediente 2: jerry tear
-7. Encontrando o Terceiro Ingrediente (Acesso Root)
-O ingrediente final exigia privilégios de root. Verifiquei quais comandos o usuário atual poderia executar com sudo e descobri que tinha permissão para visualizar arquivos no diretório /root.
-
-A leitura do arquivo 3rd.txt revelou o ingrediente final.
-Ingrediente 3: fleeb juice
-
-Resumo dos Ingredientes Secretos
-mr. meeseek hair
-jerry tear
-fleeb juice
